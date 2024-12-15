@@ -1,10 +1,10 @@
 Q) What is JavaScript?
 
-A) JavaScript is a high-level, interpreted programming language primarily used for creating interactive and dynamic web pages. It was initially designed to run in web browsers, enabling developers to enhance user experiences by modifying HTML and CSS dynamically. Today, JavaScript has evolved into a versatile language that can be used on the client-side (browser), server-side (e.g., Node.js), and even in environments like mobile apps, and desktop applications. Some key characteristics of JavaScript are:
+A) JavaScript is a high-level, interpreted programming language primarily used for creating interactive and dynamic web pages. It was initially designed to run in web browsers, enabling developers to enhance user experiences by modifying HTML and CSS dynamically. Today, JavaScript has evolved into a versatile language that can be used on the client-side (web browser), server-side (e.g., Node.js), and even in environments like mobile apps, and desktop applications. Some key characteristics of JavaScript are:
 
 - High-level: abstracts many complex details, making it easier to learn and use.
 - Dynamically typed: variable types are determined at runtime.
-- Event-driven: designed to handle user actions (e.g., clicks, keypresses) efficiently.
+- Event-driven: designed to handle user actions (e.g., clicks, key presses) efficiently.
 - Prototype-based: uses objects and prototypes instead of traditional classes.
 - Versatile: works for web development, game development, server-side logic, and more. <br> <br>
 
