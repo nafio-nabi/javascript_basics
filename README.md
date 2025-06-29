@@ -10,3 +10,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Function.
 * Array.
 * Object.
+* DOM manipulation and events.

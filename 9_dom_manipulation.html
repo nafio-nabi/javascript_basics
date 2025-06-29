@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>DOM Manipulation</title>
+    </head>
+    <body>
+        <h1 id="h-one">DOM Manipulation</h1>
+        <p id="p-two">This paragraph will be deleted.</p>
+        <button id="alert-btn">Click</button>
+        <p id="p-three">Old Message.</p>
+        <button id="changeBtn">Change message</button>
+    </body>
+    <script type="text/javascript">
+        // Document Object Model (DOM) is an structured representation of a HTML page. It's like turning HTML into an object.
+        // Using JavaScript and DOM methods we can manipulate the DOM: select, update, delete, and add elements to the page, change an elements content and style, and respond to user actions (clicks, typing).
+        
+        // Create a HTML element.
+        let paraOne = document.createElement("p");
+        
+        // Add text content to HTML element.
+        paraOne.textContent = "Document Object Model (DOM) is an structured representation of a HTML page. It's like turning HTML into an object. Using JavaScript and DOM methods we can manipulate the DOM: select, update, delete, and add elements to the page, change an elements content and style, and respond to user actions (clicks, typing).";
+
+        // Add new color.
+        paraOne.style.color = "gray";
+        
+        // Add HTML element to page.
+        document.body.appendChild(paraOne);
+
+        // Select HTML element.
+        let headingOne = document.getElementById('h-one');
+        headingOne.textContent = "DOM MANIPULATION";
+
+        // Delete HTML element.
+        let paraTwo = document.getElementById('p-two');
+        paraTwo.remove();
+
+        // Select button
+        let button = document.getElementById("alert-btn");
+
+        // Listen to event, and handle event.
+        button.addEventListener("click", function () {
+            alert("Button clicked!");
+        });
+
+        // Select button
+        let changeButton = document.getElementById("changeBtn");
+
+        // Listen to event, and handle event.
+        changeButton.addEventListener("click", function () {
+            document.getElementById("p-three").textContent = "New Message";
+        });
+    </script>
+</html>
