@@ -2,7 +2,7 @@
 
 Q) What is JavaScript?
 
-A) JavaScript is a programming language. It was originally created to run inside web browsers and used to make webpages interactive and dynamic. However, now JavaScript can be used in many different environments: web servers, mobile, desktop, and IoT devices. Some key characteristics of JavaScript are:
+A) JavaScript is a programming language. It was originally created to run inside web browsers and used to make web pages interactive and dynamic. However, now JavaScript can be used in many different environments: web servers, mobile, desktop, and IoT devices. Some key characteristics of JavaScript are:
 
 * High-level: you don't have to manage memory or worry about the computer's hardware.
 * Interpreted: it runs directly in different environments without compiling.
