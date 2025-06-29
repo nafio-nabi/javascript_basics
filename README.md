@@ -9,3 +9,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Control flow.
 * Function.
 * Array.
+* Object.
