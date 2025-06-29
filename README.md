@@ -7,3 +7,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Data types.
 * Operators.
 * Control flow.
+* Functions.
