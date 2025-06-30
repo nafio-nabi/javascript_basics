@@ -15,3 +15,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Functions as first-class cititzens and higher-order functions.
 * Array methods: map(), filter(), reduce()
 * this keyword.
+* Closure
