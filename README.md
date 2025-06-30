@@ -12,3 +12,5 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Object.
 * DOM manipulation and events.
 * Scope and hoisting.
+* Functions as first-class cititzens and higher-order functions.
+* Array methods: map(), filter(), reduce()
