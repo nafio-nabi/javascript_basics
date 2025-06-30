@@ -16,3 +16,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Array methods: map(), filter(), reduce()
 * this keyword.
 * Closure
+* JSON and localStorage
