@@ -18,3 +18,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Closure
 * JSON and localStorage
 * Asynchronous JavaScript
+* Error handling
