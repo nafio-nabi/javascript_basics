@@ -17,6 +17,14 @@ function greetUser(name) {
 // Invoke/call the function.
 greetUser("John");
 
+// Declare a function with default parameters.
+function greetUserOne(name = "Guest") {
+    console.log("Hello, " + name);
+}
+
+greetUserOne();
+greetUserOne("Josh");
+
 // Declare a function that returns a value.
 function addition(a, b) {
     return (a + b);

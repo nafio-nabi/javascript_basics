@@ -19,3 +19,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * JSON and localStorage
 * Asynchronous JavaScript
 * Error handling
+* ES6+ features: destructuring, spread, rest, default parameters, template literals
