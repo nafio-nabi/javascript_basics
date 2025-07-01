@@ -20,3 +20,4 @@ This is a short tutorial on the basic concepts of JavaScript. Topics included:
 * Asynchronous JavaScript
 * Error handling
 * ES6+ features: destructuring, spread, rest, default parameters, template literals
+* Object-Oriented Programming (OOP)
