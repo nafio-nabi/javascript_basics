@@ -115,7 +115,7 @@ while (i <= 5) {
     i++;
 }
 
-// fo while loop.
+// do while loop.
 let varOne = 10;
 
 do {
