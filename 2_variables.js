@@ -46,7 +46,7 @@ console.log(firstName);
 // Avoid using var as it is not the preferred way to declare variable in modern JavaScript development.
 // Use var for variables whose value may change in the future.
 // When using var, it's not necessary to declare and assign the variable at the same time. Variable can be declared and variable assignment can happen later.
-// When using const, variable is function scoped.
+// When using var, variable is function scoped.
 // Variable declaration.
 var isUser;
 
