@@ -1,4 +1,6 @@
-// A function is a reuseable block of code that performs a specific task. Instead of repeating the same block of code, you write it once in a function, and then call the function when you need it.
+// A function is a reuseable block of code that performs a specific task. 
+// Instead of repeating the same block of code, you write it once in a function, 
+// and then call the function when you need it.
 
 // Declare a function
 function helloWorld() {
